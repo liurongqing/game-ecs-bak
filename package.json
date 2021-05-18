@@ -1,0 +1,23 @@
+{
+  "name": "henmao-game-ecs",
+  "version": "1.0.0",
+  "description": "从0编写一个ecs游戏框架",
+  "main": "index.js",
+  "scripts": {
+    "start": "node scripts/start.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liurongqing/henmao-game-ecs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liurongqing/henmao-game-ecs/issues"
+  },
+  "homepage": "https://github.com/liurongqing/henmao-game-ecs#readme",
+  "devDependencies": {
+    "esbuild": "^0.12.0"
+  }
+}
